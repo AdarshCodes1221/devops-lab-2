@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.terraform/
+terraform.tfstate*
+terraform/output.end
+*.log
+crash.log
+make_ss.py
+generate_screenshots.py
+generate_all_ss.py
+ss/*.png
+!ss/README.md
